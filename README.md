@@ -4,7 +4,7 @@
 
 The repository contains code comparing different brain based typing methods. Within this repo, there are multiple different algorithms and benchmarks to compare different methods of brain based typing.
 
-## Repo Strucutre
+## Repo Structure
 
 This repo follows a vital structure. Please ensure the following folder structure is formatted.
 
